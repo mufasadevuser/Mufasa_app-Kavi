@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "889989888054",
+    "firebase_url": "https://mufasa-app-user-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mufasa-app-user",
+    "storage_bucket": "mufasa-app-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889989888054:android:8c0e11cdf7a1d85dcdc097",
+        "android_client_info": {
+          "package_name": "com.mufasa.ae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889989888054-p8cqgeqrck0evinb8nv5n08q2jiiqjn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6J8m469TEMJA5BzrLhIhs9dled-uRe34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889989888054-p8cqgeqrck0evinb8nv5n08q2jiiqjn2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889989888054-thb6b1ppol8kk892e5mndtaahd3qqan4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mufasa.ae",
+                "app_store_id": "1599042855"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889989888054:android:3a25979f56b0e678cdc097",
+        "android_client_info": {
+          "package_name": "com.mufasaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889989888054-mod03qbvosku1qb7ch15tolim81q8vi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mufasaapp",
+            "certificate_hash": "e91e30b0bd98651c8aa2456106bcd7ef59e99c08"
+          }
+        },
+        {
+          "client_id": "889989888054-nenps0rngbg3c3shfpiieh68kh483q18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mufasaapp",
+            "certificate_hash": "65cf74d406b08428f498f4bca062dd702cc00078"
+          }
+        },
+        {
+          "client_id": "889989888054-tlbv3p7sk3bod0a7vthg5pbgv6vuo0cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mufasaapp",
+            "certificate_hash": "f5c101df8a4bada89e11c2d52e491015c77450fc"
+          }
+        },
+        {
+          "client_id": "889989888054-p8cqgeqrck0evinb8nv5n08q2jiiqjn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6J8m469TEMJA5BzrLhIhs9dled-uRe34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889989888054-p8cqgeqrck0evinb8nv5n08q2jiiqjn2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889989888054-thb6b1ppol8kk892e5mndtaahd3qqan4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mufasa.ae",
+                "app_store_id": "1599042855"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

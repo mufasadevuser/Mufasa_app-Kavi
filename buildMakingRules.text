@@ -1,0 +1,11 @@
+1, replace urls in src/values/config.js
+commend "Dev urls" and uncommend "Production Urls"
+
+2, In src/screens/VendorDetail/vendorDetail.js
+commend lines from 286 to 289
+uncommend lines from 290 to 293
+
+3, In src/components/vendorCard.js
+commend lines from 85 to 88
+uncommend lines from 89 to 92
+

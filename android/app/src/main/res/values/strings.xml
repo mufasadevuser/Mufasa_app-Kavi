@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Mufasa</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey" translatable="false">@string/ANDROID_CODEPUSH_KEY</string>
+    <string name="facebook_app_id">5490678581043796</string>
+    <string name="facebook_client_token">4ee34905c045efc9acae532d52dd2cc0</string>
+</resources>
